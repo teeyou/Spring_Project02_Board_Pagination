@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <typeAliases>
+        <typeAlias type="com.spring.project02.board.dto.BoardDTO" alias="board"></typeAlias>
+        <typeAlias type="com.spring.project02.board.dto.CommentDTO" alias="comment"></typeAlias>
+    </typeAliases>
+</configuration>
